@@ -1,0 +1,7 @@
+click>=8.0.0
+gitpython>=3.1.0
+docker>=6.0.0
+coverage>=7.0.0
+radon>=5.0.0
+bandit>=1.7.0
+pytest>=7.0.0
